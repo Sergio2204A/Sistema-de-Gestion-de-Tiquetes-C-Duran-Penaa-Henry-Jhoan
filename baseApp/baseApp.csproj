@@ -7,4 +7,20 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Src\" />
+    <Folder Include="Src\Modules\" />
+    <Folder Include="Src\Modules\Provider\" />
+    <Folder Include="Src\Modules\Provider\Application\" />
+    <Folder Include="Src\Modules\Provider\Domain\" />
+    <Folder Include="Src\Modules\Provider\Infrastructure\" />
+    <Folder Include="Src\Modules\Provider\Ui\" />
+    <Folder Include="Src\Shared\" />
+    <Folder Include="Src\Shared\Configuration\" />
+    <Folder Include="Src\Shared\Context\" />
+    <Folder Include="Src\Shared\Contracts\" />
+    <Folder Include="Src\Shared\Helpers\" />
+    <Folder Include="Src\Shared\Ui\" />
+  </ItemGroup>
+
 </Project>
