@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhoan\\Sistema de Gestion Proyecto-Henry Duran\\baseApp\\baseApp.csproj": {}
+    "C:\\Users\\jhoan\\Desktop\\Sistema-de-Gestion-de-Tiquetes-C-Duran-Penaa-Henry-Jhoan\\baseApp\\baseApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhoan\\Sistema de Gestion Proyecto-Henry Duran\\baseApp\\baseApp.csproj": {
+    "C:\\Users\\jhoan\\Desktop\\Sistema-de-Gestion-de-Tiquetes-C-Duran-Penaa-Henry-Jhoan\\baseApp\\baseApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhoan\\Sistema de Gestion Proyecto-Henry Duran\\baseApp\\baseApp.csproj",
+        "projectUniqueName": "C:\\Users\\jhoan\\Desktop\\Sistema-de-Gestion-de-Tiquetes-C-Duran-Penaa-Henry-Jhoan\\baseApp\\baseApp.csproj",
         "projectName": "baseApp",
-        "projectPath": "C:\\Users\\jhoan\\Sistema de Gestion Proyecto-Henry Duran\\baseApp\\baseApp.csproj",
+        "projectPath": "C:\\Users\\jhoan\\Desktop\\Sistema-de-Gestion-de-Tiquetes-C-Duran-Penaa-Henry-Jhoan\\baseApp\\baseApp.csproj",
         "packagesPath": "C:\\Users\\jhoan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhoan\\Sistema de Gestion Proyecto-Henry Duran\\baseApp\\obj\\",
+        "outputPath": "C:\\Users\\jhoan\\Desktop\\Sistema-de-Gestion-de-Tiquetes-C-Duran-Penaa-Henry-Jhoan\\baseApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhoan\\AppData\\Roaming\\NuGet\\NuGet.Config"
