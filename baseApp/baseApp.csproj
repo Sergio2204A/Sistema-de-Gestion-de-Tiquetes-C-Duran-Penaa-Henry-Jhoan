@@ -12,6 +12,7 @@
     <Folder Include="Src\Modules\" />
     <Folder Include="Src\Modules\Provider\" />
     <Folder Include="Src\Modules\Provider\Application\" />
+    <Folder Include="Src\Modules\Provider\Application\services\" />
     <Folder Include="Src\Modules\Provider\Domain\" />
     <Folder Include="Src\Modules\Provider\Infrastructure\" />
     <Folder Include="Src\Modules\Provider\Ui\" />
